@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/phlco/fifty_shades_of_testing.svg?branch=master)](https://travis-ci.org/phlco/fifty_shades_of_testing)
+
 # Continuous Integration with Travis CI
 
 Travis CI allows us to run tests on our builds everytime we push to github. This
